@@ -133,4 +133,10 @@ This produces `minicraft.dol` inside the `build-wii/` directory.
 - **Markus "Notch" Persson** – Original Minicraft game concept and design.
 - **TheBigEye** – C & SDL reimplementation.
 - **Minicraft Plus Revived Team** – Textures and mechanics reference.
-- **szablewskidex** – Nintendo Wii port, enhanced systems (Bow/Arrow, Fishing, Animals, Dungeons, Minimap Radar, Rumble, Armors, Doors, Boat, Audio, Controllers, Day/Night).
+- **szablewskidex** / **txmbrs** – Nintendo Wii & PSP ports, enhanced systems (Bow/Arrow, Fishing, Animals, Dungeons, Minimap Radar, Rumble, Armors, Doors, Boat, Audio, Controllers, Day/Night).
+
+---
+
+## ⚖️ License
+This project is open-source and released under the [MIT License](LICENSE).
+See the `LICENSE` file for full terms and copyright notices.
